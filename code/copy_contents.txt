@@ -1,0 +1,4 @@
+#copy contents from to /content of colab
+%cp /content/drive/MyDrive/yolov3_set2/backup/obj_last.weights /content/
+%cp /content/drive/MyDrive/yolov3_set2/obj.names /content/
+%cp /content/drive/MyDrive/yolov3_set2/obj.cfg /content/
